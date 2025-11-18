@@ -1,88 +1,70 @@
-<!-- 🌟 GIORGI GIORGADZE — PROFESSIONAL GITHUB PROFILE -->
+<!-- 🌟 GIORGI GIORGADZE — PROFESSIONAL GITHUB PROFILE --> <h1 align="center">👋 Hello, I'm Giorgi Giorgadze</h1> <h3 align="center">🎯 Front-End Developer | Game Developer | Tech Enthusiast</h3> <p align="center"> 💡 I build modern, fast, and responsive websites with Angular, as well as 3D games in Unity.<br/> I love UI/UX design, learning new technologies, and turning ideas into real products. </p>
+🧠 My Skills
+🎨 Front-End Technologies
 
-<h1 align="center">👋 გამარჯობა, მე ვარ გიორგი გიორგაძე</h1>
-<h3 align="center">🎯 Front-End Developer | Game Developer | Tech Enthusiast</h3>
+HTML5 / CSS3 / SCSS
 
-<p align="center">
-💡 ვქმნი თანამედროვე, სწრაფ და რეაგირებად ვებსაიტებს Angular-ზე, ასევე 3D თამაშებს Unity-ში.<br/>
-მიყვარს UX/UI დიზაინი, ახალი ტექნოლოგიების სწავლა და პროექტების რეალურ პროდუქტებად გადაქცევა.
-</p>
+JavaScript (ES6+) / TypeScript
 
----
+Angular 17+ / RxJS / Routing / Animations
 
-## 🧠 ჩემი უნარები  
+Responsive & Mobile-First Design
 
-### 🎨 **Front-End ტექნოლოგიები**
-- HTML5 / CSS3 / SCSS  
-- JavaScript (ES6+) / TypeScript  
-- Angular 17+ / RxJS / Routing / Animations  
-- Responsive & Mobile-First Design  
 
-### ⚙️ **Back-End**
-- C# / ASP.NET Core API (REST endpoints)  
-- JSON / Local Storage Integration  
+⚙️ Back-End
 
-### 🎮 **Game Development**
-- Unity (C#)  
-- NavMesh AI, Animator Controllers, Cutscenes, 3D Systems  
+C# / ASP.NET Core API (REST endpoints)
 
-### 🧩 **სხვა უნარები**
-- Git & GitHub  
-- UI/UX აზროვნება  
-- Problem Solving  
-- English Communication  
+JSON / Local Storage Integration
 
----
+🎮 Game Development
 
-## 💻 ჩემი პროექტები  
+Unity (C#)
 
-### 👟 [FootWear – Angular Shop](https://giorgadze897.github.io/fashion-shop/)
-🛍 თანამედროვე eCommerce საიტი ფეხსაცმელების კატალოგით, კალათითა და Checkout სისტემით  
-**Tech:** Angular, TypeScript, HTML, CSS
+NavMesh AI, Animator Controllers, Cutscenes, 3D Systems
 
-### 🎮 [Final Game – Unity 3D](https://github.com/giorgadze897/Final_Game)
-🗡 3D სათავგადასავლო თამაში — „საფინალო თამაში“, სადაც რაინდმა უნდა იხსნას პრინცესა  
-**Tech:** Unity, C#, Animator Controllers, NavMesh, AI  
+🧩 Other Skills
 
-### 🕹 [Reloaded Deals – Gaming eCommerce](https://giorgadze897.github.io/reloaded-deals/)
-🎧 გეიმინგ პროდუქციის მაღაზია — მაუსები, კლავიატურები, კამერები  
-**Tech:** Angular, Responsive Design, Animations  
+Git & GitHub
 
----
+UI/UX Thinking
 
-## ⚡ GitHub სტატისტიკა  
+Problem Solving
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiorgiGiorgadze294&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F92672&icon_color=F8D866" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgiGiorgadze294&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F92672&icon_color=F8D866" height="165"/>
-</p>
+English Communication
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiGiorgadze294&theme=radical" />
-</p>
+💻 My Projects
+👟 FootWear – Angular Shop
 
----
+🛍 A modern eCommerce website with a shoe catalog, shopping cart, and checkout system
+Tech: Angular, TypeScript, HTML, CSS
 
-## 🛠️ Tech Stack  
+🎮 Final Game – Unity 3D
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,typescript,angular,cs,dotnet,unity,git,github,figma,vscode&theme=dark" />
-</p>
+🗡 A 3D adventure game — “Final Game”, where a knight must rescue the princess
+Tech: Unity, C#, Animator Controllers, NavMesh, AI
 
----
+🕹 Reloaded Deals – Gaming eCommerce
 
-## 📫 დამიკავშირდი  
+🎧 Gaming products shop — mice, keyboards, webcams
+Tech: Angular, Responsive Design, Animations
 
-📧 **Webmaker897@gmail.com**  
-🌐 [Portfolio Website](https://giorgadze897.github.io/portfolio)  
-💬 ყოველთვის მზად ვარ თანამშრომლობისთვის — Front-End, Unity ან eCommerce პროექტებზე  
+⚡ GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GiorgiGiorgadze294&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F92672&icon_color=F8D866" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgiGiorgadze294&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F92672&icon_color=F8D866" height="165"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiorgiGiorgadze294&theme=radical" /> </p>
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,typescript,angular,cs,dotnet,unity,git,github,figma,vscode&theme=dark" /> </p>
+📫 Contact Me
 
----
+📧 Webmaker897@gmail.com
+
+🌐 Portfolio Website
+
+💬 Always open to collaboration — Front-End, Unity, and eCommerce projects
 
 <div align="center">
 
-⭐ *"Code. Create. Inspire."*  
+⭐ "Code. Create. Inspire."
 <br/>
-✨ **Follow me for more creative web & game projects!**
+✨ Follow me for more creative web & game projects!
 
 </div>
