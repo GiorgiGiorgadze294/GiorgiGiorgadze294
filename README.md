@@ -57,7 +57,8 @@ Tech: Angular, Responsive Design, Animations
 
 📧 Webmaker897@gmail.com
 
-🌐 Portfolio Website https://giorgigiorgadze294.github.io/portfolio/
+🌐 Portfolio Website:
+https://giorgigiorgadze294.github.io/portfolio/
 
 💬 Always open to collaboration — Front-End, Unity, and eCommerce projects
 
